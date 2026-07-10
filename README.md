@@ -20,3 +20,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+flutter pub get
+flutter build apk --release --split-per-abi
